@@ -127,9 +127,7 @@ header {
     background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    /* margin-bottom: 100px; */
     padding: 255px 0 0 0;
-    margin-bottom: 10px;
     position: relative;
 }
 
@@ -294,7 +292,10 @@ header {
     opacity: 0.7;
     transition: opacity 0.2s ease ;
 }
-
+.menu-shop {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
 .next-right:hover {
     opacity: 1;
 }
